@@ -18,4 +18,6 @@ Market size: there are three types of market size: small, medium and large.
 
 Week: One of four weeks when the promotions were run (1–4).
 
-Conclusion: Of all 3 promotions 1st is the best one and 2nd should be stopped & replaced with 1 or 3. Out of 1 or 3 depending on the cost of promotion selection can be made, if promo 1 & 3 cost same then 1 is the way to go and if the cost of 1 is so high that it removes the gains from extra sales then promo 3 is to be used.
+Conclusion: As we can see from the p-value, the average value of the sales figures in promotion 1 and 3 do not differ significantly. But the difference between promotion 1 and 2 does as well as promotion 2 vs. 3. If you look at the corresponding t-value, you can say that promotion 1 and 3 were better than promotion 2.
+Of all 3 promotions 1st is the best one and 2nd should be stopped & replaced with 1 or 3. Out of 1 or 3 depending on the cost of promotion selection can be made, if promo 1 & 3 cost the same then 1 is the way to go and if the cost of 1 is so high that it removes the gains from extra sales then promo 3 is to be used.
+Since a lot depends on the decisions of the marketing department, it is worthwhile, especially for far-reaching decisions, to carry out extensive A/B tests to get the desired results.
